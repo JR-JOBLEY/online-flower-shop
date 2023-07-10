@@ -1,0 +1,53 @@
+.heading{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-right: 97px;
+margin-bottom: 32px;
+margin-top: 197px;
+margin-left: 240px;
+}
+.para{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 32px;
+margin-bottom: 32px;
+margin-left: 240px;
+margin-right: 171px;
+}
+.btn1{border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 32px;
+margin-bottom: 147px;
+margin-left: 240px;
+margin-right: 628px;
+text-align: center;
+padding: 20px 43px;
+
+}
+.nami{
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+height: 850px;
+flex-shrink: 0;
+display: flex;
+}
+.h-img{
+    margin-top: 50px;
+    margin-left: 97px;
+    margin-right: 240px;
+    
+}
