@@ -187,3 +187,134 @@ line-height: normal;
 .fozia-img{
     margin: 100px 429px 100px 0px;
 }
+.insta-heading{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin: 128px 870px 24px 870px;
+}
+.insta-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin: 24px 663px 48px 663px;
+}
+.insta-img{
+    margin: 48px 240px 128px 240px;
+    display: flex;
+    
+}
+.ig1{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+.ig2{
+    margin-right: 24px;
+   
+}
+.jrj{
+    display: flex;
+    margin: 48px 287px 121px 287px;
+}
+.e-h{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin: 122px 534px 10px 533px;
+}
+.e-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin: 10px 605px 233px 604px;
+}
+
+#simi{
+    margin: 48px 287px 121px 16px;;
+}
+.btn2{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+padding: 20px 43px;
+margin: 48px 287px 121px 16px;
+
+}
+.e-e{
+    margin: 48px 287px 121px 287px ;
+}
+.e-em{
+
+    width: 1200px;
+height: 64px;
+
+border-radius: 8px;
+background: #FFF;
+margin: 48px 16px 121px 287px;
+}
+.e-e{
+    display: flex;
+}
+.foot{
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+margin-top: 128px;
+}
+.f-h{
+    
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+
+margin: 128px 832px 24px 831px;
+
+}
+.f-p{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin: 24px 649px 32px 648px ;
+}
+.f-p2{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 32px 783px 128px 784px;
+}
+.f-desc{
+    margin-top: 128px;
+}
